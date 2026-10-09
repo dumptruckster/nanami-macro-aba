@@ -1,0 +1,17 @@
+{
+  "client_version": "version-d584fb6c717a43d9",
+  "FakeDataModelPointer": 145086280,
+  "FakeDataModelToDataModel": 464,
+  "DataModel_Workspace": 352,
+  "FramePositionX": 1296,
+  "FramePositionOffsetX": 1300,
+  "FrameSizeX": 1328,
+  "FrameSizeOffsetX": 1332,
+  "Instance_Name": 112,
+  "Instance_NameInner": 8,
+  "Instance_ClassDescriptor": 24,
+  "Instance_ClassDescriptorToClassName": 8,
+  "Instance_Children": 120,
+  "Instance_ChildrenEnd": 8,
+  "Instance_Parent": 104
+}
