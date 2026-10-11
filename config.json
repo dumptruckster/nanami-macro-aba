@@ -1,9 +1,0 @@
-{
-  "gui_keybind": "Insert",
-  "keybind": "F1",
-  "show_keybind": false,
-  "show_overlay": false,
-  "auto_attach": false,
-  "success_rate_enabled": false,
-  "success_rate": 100
-}
